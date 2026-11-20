@@ -25,3 +25,6 @@ Trabajo práctico de aprendizaje profundo enfocado en la clasificación de **9 c
 1. Clonar el repositorio e instalar las dependencias:
    ```bash
    pip install -r requirements.txt
+   ```
+2. Ubicar el dataset original en la carpeta `data/Split_smol/` (conteniendo los directorios `train/` y `val/`). *Por tamaño y consigna, las imágenes no se incluyen en este repositorio.*
+3. Abrir `04_CNN_Skin_ISIC.ipynb` en Jupyter o Google Colab (con aceleración por GPU recomendada) y ejecutar todas las celdas en orden.
